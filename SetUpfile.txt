@@ -1,0 +1,15 @@
+
+
+1. Ensure that you have the latest version of Node.js installed on your system. You can download and install Node.js from the official website if you haven't already done so.
+
+2. Make sure that the necessary database tables are created before running the application. If you haven't set up the database tables yet, refer to the project documentation or database setup instructions for guidance.
+
+3. Configure the database connection information, including the port, in the `server/index.js` file. Open the file and locate the database configuration section to input the correct port information for your database.
+
+4. Navigate to the directory where the Font package is located. Once there, run `npm install` to install the required dependencies. After the installation is complete, start the Font server by running `npm start`.
+
+5. Next, navigate to the directory where the Server package is located. Similarly, run `npm install` to install the required dependencies for the server. Once the installation is finished, start the server by running `npm start`.
+
+6. After completing the steps above, your application should be up and running. You can access it by opening a web browser and navigating to the appropriate URL or IP address. If everything is configured correctly, you should see the application interface or landing page.
+
+These instructions provide a step-by-step guide to ensure that your Node.js application, including the Font and Server components, is properly set up and ready to use.
